@@ -9,3 +9,8 @@
 - 2 xícara (chá) de trigo
 - 1 colher de fermento em pó
 
+
+
+**Modo de fazer**
+
+Ralar a cenoura crua e bata no loquidificador juntamente com o óleo e os ovos.
