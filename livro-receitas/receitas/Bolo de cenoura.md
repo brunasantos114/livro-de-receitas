@@ -2,7 +2,11 @@
 
 *Ingredientes*:
 
-- 3 cenouras medianas
+<<<<<<< HEAD
+- 30 cenouras grandes
+=======
+- 30 cenouras grandes
+>>>>>>> 0758cf48f1bd5709bf1f060a65de4f6c84e13e21
 - 4 ovos
 - 1 xícara (chá) de óleo
 - 2 xícara de acúcar (chá)
