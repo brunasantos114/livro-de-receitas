@@ -2,7 +2,7 @@
 
 *Ingredientes*:
 
-- 3 cenouras médias
+- 30 cenouras grandes
 - 4 ovos
 - 1 xícara (chá) de óleo
 - 2 xícara de acúcar (chá)
