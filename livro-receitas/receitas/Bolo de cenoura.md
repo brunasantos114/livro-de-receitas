@@ -2,7 +2,7 @@
 
 *Ingredientes*:
 
-- 10 cenouras médias
+- 100 cenouras médias
 - 4 ovos
 - 1 colher de café
 - 1 xícara (chá) de óleo
